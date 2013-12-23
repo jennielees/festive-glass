@@ -10,6 +10,8 @@ You'll probably want [launchy](https://github.com/kaze0/launchy) if you're plann
 
 ###Santaize
 
+![image](https://raw.github.com/jennielees/festive-glass/master/katehat.png)
+
 Requires [OpenCV for Android](http://docs.opencv.org/doc/tutorials/introduction/android_binary_package/O4A_SDK.html).
 
 Attempts to detect faces in the camera view and draw Santa hats on them. I say 'attempts' as the detection is somewhat shonky. The hat sizing is often off, and sometimes the positioning is as well.
@@ -17,6 +19,8 @@ Attempts to detect faces in the camera view and draw Santa hats on them. I say '
 Tap the Glass touchpad to take a snapshot.
 
 ###Let It Snow
+
+![image](https://raw.github.com/jennielees/festive-glass/master/snow20131211-180555.jpg)
 
 In case you live somewhere sunny where it doesn't snow for Christmas, this app superimposes falling snow on the camera view.
 
