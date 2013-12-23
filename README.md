@@ -20,7 +20,7 @@ Tap the Glass touchpad to take a snapshot.
 
 ###Let It Snow
 
-![image](https://raw.github.com/jennielees/festive-glass/master/snow20131211-180555.jpg)
+![image](https://raw.github.com/jennielees/festive-glass/a66a19b4dd518be6b250242ebd77fc1550e2aeac/snow20131211-180555.jpg)
 
 In case you live somewhere sunny where it doesn't snow for Christmas, this app superimposes falling snow on the camera view.
 
